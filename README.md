@@ -15,3 +15,5 @@ The code here contains a shiny app that allows you to click points in a plot tha
   - Read in your .textgrids in R as a data frame & make any modifications needed.
   - Generate a plot from your textgrid data frame. This is what the shiny app will allow you to interact with.
   - Run the shiny app.
+
+  ![](annotation_calibration_example.mov)
