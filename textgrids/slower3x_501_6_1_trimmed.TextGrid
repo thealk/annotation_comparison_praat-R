@@ -1,0 +1,268 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.051429 
+tiers? <exists> 
+size = 8 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44 
+            text = "please" 
+        intervals [2]:
+            xmin = 0.44 
+            xmax = 0.83 
+            text = "say" 
+        intervals [3]:
+            xmin = 0.83 
+            xmax = 0.86 
+            text = "" 
+        intervals [4]:
+            xmin = 0.86 
+            xmax = 1.51 
+            text = "abad" 
+        intervals [5]:
+            xmin = 1.51 
+            xmax = 1.98 
+            text = "again" 
+        intervals [6]:
+            xmin = 1.98 
+            xmax = 2.051429 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "P" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.25 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.25 
+            xmax = 0.36 
+            text = "IY1" 
+        intervals [4]:
+            xmin = 0.36 
+            xmax = 0.44 
+            text = "Z" 
+        intervals [5]:
+            xmin = 0.44 
+            xmax = 0.6 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.6 
+            xmax = 0.83 
+            text = "EY1" 
+        intervals [7]:
+            xmin = 0.83 
+            xmax = 0.86 
+            text = "sp" 
+        intervals [8]:
+            xmin = 0.86 
+            xmax = 1.03 
+            text = "AH0" 
+        intervals [9]:
+            xmin = 1.03 
+            xmax = 1.2 
+            text = "B" 
+        intervals [10]:
+            xmin = 1.2 
+            xmax = 1.44 
+            text = "AA1" 
+        intervals [11]:
+            xmin = 1.44 
+            xmax = 1.51 
+            text = "D" 
+        intervals [12]:
+            xmin = 1.51 
+            xmax = 1.65 
+            text = "AH0" 
+        intervals [13]:
+            xmin = 1.65 
+            xmax = 1.71 
+            text = "G" 
+        intervals [14]:
+            xmin = 1.71 
+            xmax = 1.78 
+            text = "EH1" 
+        intervals [15]:
+            xmin = 1.78 
+            xmax = 1.98 
+            text = "N" 
+        intervals [16]:
+            xmin = 1.98 
+            xmax = 2.03 
+            text = "sp" 
+        intervals [17]:
+            xmin = 2.03 
+            xmax = 2.051429 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "baseline" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0151705159412776 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0151705159412776 
+            xmax = 1.165 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.165 
+            xmax = 1.1837591239479723 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.1837591239479723 
+            xmax = 1.453044269021423 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.453044269021423 
+            xmax = 2.051429 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "EM" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0909794174079888 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0909794174079888 
+            xmax = 1.16618049320266 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.16618049320266 
+            xmax = 1.190238491773721 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.190238491773721 
+            xmax = 1.4503310103256752 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.4503310103256752 
+            xmax = 2.051429 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "cd" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0153963718820862 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0153963718820862 
+            xmax = 1.1661791231544778 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.1661791231544778 
+            xmax = 1.1839020956367896 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.1839020956367896 
+            xmax = 1.4401 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.4401 
+            xmax = 2.051429 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "ed" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0153963718820862 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0153963718820862 
+            xmax = 1.1662144607156657 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.1662144607156657 
+            xmax = 1.1839020956367896 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.1839020956367896 
+            xmax = 1.4401 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.4401 
+            xmax = 2.051429 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "kh" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0153963718820862 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0153963718820862 
+            xmax = 1.1646801567574323 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.1646801567574323 
+            xmax = 1.1922344919703043 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.1922344919703043 
+            xmax = 1.4401 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.4401 
+            xmax = 2.051429 
+            text = "" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "kk" 
+        xmin = 0 
+        xmax = 2.051429 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0153963718820862 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0153963718820862 
+            xmax = 1.1663322672533476 
+            text = "B_cx" 
+        intervals [3]:
+            xmin = 1.1663322672533476 
+            xmax = 1.1839020956367896 
+            text = "B_vot" 
+        intervals [4]:
+            xmin = 1.1839020956367896 
+            xmax = 1.4401 
+            text = "AA1" 
+        intervals [5]:
+            xmin = 1.4401 
+            xmax = 2.051429 
+            text = "" 

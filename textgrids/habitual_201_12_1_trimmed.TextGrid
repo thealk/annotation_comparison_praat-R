@@ -1,0 +1,320 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.973787 
+tiers? <exists> 
+size = 10 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28 
+            text = "please" 
+        intervals [2]:
+            xmin = 0.28 
+            xmax = 0.59 
+            text = "say" 
+        intervals [3]:
+            xmin = 0.59 
+            xmax = 1.19 
+            text = "atude" 
+        intervals [4]:
+            xmin = 1.19 
+            xmax = 1.27 
+            text = "" 
+        intervals [5]:
+            xmin = 1.27 
+            xmax = 1.92 
+            text = "again" 
+        intervals [6]:
+            xmin = 1.92 
+            xmax = 1.973787 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1 
+            text = "P" 
+        intervals [2]:
+            xmin = 0.1 
+            xmax = 0.13 
+            text = "L" 
+        intervals [3]:
+            xmin = 0.13 
+            xmax = 0.22 
+            text = "IY1" 
+        intervals [4]:
+            xmin = 0.22 
+            xmax = 0.28 
+            text = "Z" 
+        intervals [5]:
+            xmin = 0.28 
+            xmax = 0.42 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.42 
+            xmax = 0.59 
+            text = "EY1" 
+        intervals [7]:
+            xmin = 0.59 
+            xmax = 0.75 
+            text = "AH0" 
+        intervals [8]:
+            xmin = 0.75 
+            xmax = 0.85 
+            text = "T" 
+        intervals [9]:
+            xmin = 0.85 
+            xmax = 1.03 
+            text = "UW1" 
+        intervals [10]:
+            xmin = 1.03 
+            xmax = 1.19 
+            text = "D" 
+        intervals [11]:
+            xmin = 1.19 
+            xmax = 1.27 
+            text = "sp" 
+        intervals [12]:
+            xmin = 1.27 
+            xmax = 1.48 
+            text = "AH0" 
+        intervals [13]:
+            xmin = 1.48 
+            xmax = 1.58 
+            text = "G" 
+        intervals [14]:
+            xmin = 1.58 
+            xmax = 1.73 
+            text = "EH1" 
+        intervals [15]:
+            xmin = 1.73 
+            xmax = 1.92 
+            text = "N" 
+        intervals [16]:
+            xmin = 1.92 
+            xmax = 1.95 
+            text = "sp" 
+        intervals [17]:
+            xmin = 1.95 
+            xmax = 1.973787 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "baseline" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7166611793907534 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7166611793907534 
+            xmax = 0.791 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.791 
+            xmax = 0.8604978168226001 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8604978168226001 
+            xmax = 1.021448630243596 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.021448630243596 
+            xmax = 1.973787 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "EM" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7171715675517519 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7171715675517519 
+            xmax = 0.7917938347811382 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.7917938347811382 
+            xmax = 0.8644638501455466 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8644638501455466 
+            xmax = 1.0266249670107226 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0266249670107226 
+            xmax = 1.973787 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "XX" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7501 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7501 
+            xmax = 0.791 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.791 
+            xmax = 0.864 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.864 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "ad" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7188703360131932 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7188703360131932 
+            xmax = 0.7918821107031876 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.7918821107031876 
+            xmax = 0.8654648726747336 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8654648726747336 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "cd" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7111495192392203 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7111495192392203 
+            xmax = 0.7912355471947693 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.7912355471947693 
+            xmax = 0.8609172151245322 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8609172151245322 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "kh" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7214093788796594 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7214093788796594 
+            xmax = 0.791365887141563 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.791365887141563 
+            xmax = 0.8742271837625868 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8742271837625868 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 
+    item [9]:
+        class = "IntervalTier" 
+        name = "kk" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.70852024802388 
+            text = "" 
+        intervals [2]:
+            xmin = 0.70852024802388 
+            xmax = 0.7913963711078832 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.7913963711078832 
+            xmax = 0.8700431081523519 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.8700431081523519 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 
+    item [10]:
+        class = "IntervalTier" 
+        name = "tk" 
+        xmin = 0 
+        xmax = 1.973787 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7501 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7501 
+            xmax = 0.791 
+            text = "T_cx" 
+        intervals [3]:
+            xmin = 0.791 
+            xmax = 0.864 
+            text = "T_vot" 
+        intervals [4]:
+            xmin = 0.864 
+            xmax = 1.0301 
+            text = "UW1" 
+        intervals [5]:
+            xmin = 1.0301 
+            xmax = 1.973787 
+            text = "" 

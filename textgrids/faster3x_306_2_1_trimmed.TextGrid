@@ -1,0 +1,252 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.011406 
+tiers? <exists> 
+size = 8 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "please" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.37 
+            text = "say" 
+        intervals [3]:
+            xmin = 0.37 
+            xmax = 0.62 
+            text = "apad" 
+        intervals [4]:
+            xmin = 0.62 
+            xmax = 0.96 
+            text = "again" 
+        intervals [5]:
+            xmin = 0.96 
+            xmax = 1.011406 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11 
+            text = "P" 
+        intervals [2]:
+            xmin = 0.11 
+            xmax = 0.21 
+            text = "IY1" 
+        intervals [3]:
+            xmin = 0.21 
+            xmax = 0.31 
+            text = "S" 
+        intervals [4]:
+            xmin = 0.31 
+            xmax = 0.37 
+            text = "EY1" 
+        intervals [5]:
+            xmin = 0.37 
+            xmax = 0.42 
+            text = "AH0" 
+        intervals [6]:
+            xmin = 0.42 
+            xmax = 0.51 
+            text = "P" 
+        intervals [7]:
+            xmin = 0.51 
+            xmax = 0.58 
+            text = "AE1" 
+        intervals [8]:
+            xmin = 0.58 
+            xmax = 0.62 
+            text = "D" 
+        intervals [9]:
+            xmin = 0.62 
+            xmax = 0.67 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 0.67 
+            xmax = 0.72 
+            text = "G" 
+        intervals [11]:
+            xmin = 0.72 
+            xmax = 0.85 
+            text = "EY1" 
+        intervals [12]:
+            xmin = 0.85 
+            xmax = 0.96 
+            text = "N" 
+        intervals [13]:
+            xmin = 0.96 
+            xmax = 0.99 
+            text = "sp" 
+        intervals [14]:
+            xmin = 0.99 
+            xmax = 1.011406 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "baseline" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4079448382542388 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4079448382542388 
+            xmax = 0.469 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.469 
+            xmax = 0.4968006106130202 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.4968006106130202 
+            xmax = 0.5951095949585956 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5951095949585956 
+            xmax = 1.011406 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "EM" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41861961451247165 
+            text = "" 
+        intervals [2]:
+            xmin = 0.41861961451247165 
+            xmax = 0.4691798620689654 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.4691798620689654 
+            xmax = 0.4968138232092335 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.4968138232092335 
+            xmax = 0.5885443663999724 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5885443663999724 
+            xmax = 1.011406 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "cd" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40821694664260266 
+            text = "" 
+        intervals [2]:
+            xmin = 0.40821694664260266 
+            xmax = 0.46771545988598573 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.46771545988598573 
+            xmax = 0.4972236497504571 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.4972236497504571 
+            xmax = 0.5801 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5801 
+            xmax = 1.011406 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "ed" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.402936198721913 
+            text = "" 
+        intervals [2]:
+            xmin = 0.402936198721913 
+            xmax = 0.4693280066251753 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.4693280066251753 
+            xmax = 0.5075483846675202 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.5075483846675202 
+            xmax = 0.5801 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5801 
+            xmax = 1.011406 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "kh" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.402936198721913 
+            text = "" 
+        intervals [2]:
+            xmin = 0.402936198721913 
+            xmax = 0.469 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.469 
+            xmax = 0.49641009004757974 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.49641009004757974 
+            xmax = 0.5801 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5801 
+            xmax = 1.011406 
+            text = "" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "kk" 
+        xmin = 0 
+        xmax = 1.011406 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40821694664260266 
+            text = "" 
+        intervals [2]:
+            xmin = 0.40821694664260266 
+            xmax = 0.46970971929204564 
+            text = "P_cx" 
+        intervals [3]:
+            xmin = 0.46970971929204564 
+            xmax = 0.4972236497504571 
+            text = "P_vot" 
+        intervals [4]:
+            xmin = 0.4972236497504571 
+            xmax = 0.5801 
+            text = "AE1" 
+        intervals [5]:
+            xmin = 0.5801 
+            xmax = 1.011406 
+            text = "" 
